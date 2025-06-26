@@ -1,7 +1,6 @@
-# Common
+# IDE
 .vscode/
 
 # C++
-cpp/build/
-
-cpp/.cache/
+build/
+.cache/
